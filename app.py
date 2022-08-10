@@ -3,7 +3,6 @@ import streamlit as st
 import pickle
 import tensorflow as tf
 from keras.preprocessing import image
-import os
 from werkzeug.utils import secure_filename
 from keras.preprocessing import image
 from keras.applications.vgg16 import preprocess_input
